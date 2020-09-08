@@ -1,0 +1,38 @@
+WITH contacts_json (doc) AS (VALUES(
+'[
+    {
+        "id": 1,
+        "name": "Jimmy",
+        "type": "25",
+        "date_of_birth": "yes",
+        "owner_id":1: 
+    },
+    {
+        "id": 2,
+        "name": "Annie",
+        "age": 22,
+        "active": "yes"
+    },
+    {
+        "id": 3,
+        "name": "John",
+        "age": 21,
+        "active": "no"
+    },
+    {
+        "id": 4,
+        "name": "Mark",
+        "age": 15,
+        "active": "no"
+    },
+    {
+        "id": 5,
+        "name": "Shelly",
+        "age": 20,
+        "active": "yes"
+    }
+]'::json))
+INSERT INTO contacts (id, name, age, active)
+SELECT p.* FROM contacts_json l CROSS JOIN lateral
+json_populate_recordset(NULL::contacts, doc) AS p ON conflict (id)
+do UPDATE SET name = excluded.name, active = excluded.active;

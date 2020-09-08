@@ -1,0 +1,297 @@
+##########################
+# FIFA country codes
+#
+# see en.wikipedia.org/wiki/List_of_FIFA_country_codes
+
+##
+#  todo: mark all dependencies n territories w/ (UK), (NZ), (AU), (US) etc.
+
+
+## todo: sort by code first
+
+
+#################
+## 209 regular FIFA members
+
+AFG, Afghanistan
+ALB, Albania
+ALG, Algeria
+ASA, American Samoa
+AND, Andorra
+ANG, Angola
+AIA, Anguilla
+ATG, Antigua and Barbuda
+ARG, Argentina
+ARM, Armenia
+ARU, Aruba
+AUS, Australia
+AUT, Austria
+AZE, Azerbaijan
+
+BAH, Bahamas
+BHR, Bahrain
+BAN, Bangladesh
+BRB, Barbados
+BLR, Belarus
+BEL, Belgium
+BLZ, Belize
+BEN, Benin
+BER, Bermuda
+BHU, Bhutan
+BOL, Bolivia
+BIH, Bosnia-Herzegovina
+BOT, Botswana
+BRA, Brazil
+BRU, Brunei
+BUL, Bulgaria
+BFA, Burkina Faso
+BDI, Burundi
+
+CAM, Cambodia
+CMR, Cameroon
+CAN, Canada
+CPV, Cape Verde
+CAY, Cayman Islands
+CTA, Central African Republic
+CHA, Chad
+CHI, Chile
+CHN, China
+COL, Colombia
+COM, Comoros
+CGO, Congo
+COD, Congo DR
+COK, Cook Islands
+CRC, Costa Rica
+CRO, Croatia
+CUB, Cuba
+CUW, Curaçao
+CYP, Cyprus
+CZE, Czech Republic
+CIV, Côte d'Ivoire      # Ivory Coast
+
+DEN, Denmark
+DJI, Djibouti
+DMA, Dominica
+DOM, Dominican Republic
+
+ECU, Ecuador
+EGY, Egypt
+ENG, England
+EQG, Equatorial Guinea
+ERI, Eritrea
+EST, Estonia
+ETH, Ethiopia
+ESP, Spain
+
+FRO, Faroe Islands
+FIJ, Fiji
+FIN, Finland
+FRA, France
+
+GAB, Gabon
+GAM, Gambia
+GEO, Georgia
+GER, Germany
+GHA, Ghana
+GRE, Greece
+GRN, Grenada
+GUM, Guam
+GUA, Guatemala
+GUI, Guinea
+GNB, Guinea-Bissau
+GUY, Guyana
+
+HAI, Haiti
+HON, Honduras
+HKG, Hong Kong
+HUN, Hungary
+
+ISL, Iceland
+IND, India
+IDN, Indonesia
+IRN, Iran
+IRQ, Iraq
+ISR, Israel
+ITA, Italy
+IRL, Ireland
+
+JAM, Jamaica
+JPN, Japan
+JOR, Jordan
+
+KAZ, Kazakhstan
+KEN, Kenya
+KUW, Kuwait
+KGZ, Kyrgyzstan
+KSA, Saudi Arabia
+KOR, South Korea
+
+LAO, Laos
+LVA, Latvia
+LIB, Lebanon
+LES, Lesotho
+LBR, Liberia
+LBY, Libya
+LIE, Liechtenstein
+LTU, Lithuania
+LUX, Luxembourg
+LCA, Saint Lucia
+
+MAC, Macau
+MKD, Macedonia
+MAD, Madagascar
+MWI, Malawi
+MAS, Malaysia
+MDV, Maldives
+MLI, Mali
+MLT, Malta
+MTN, Mauritania
+MRI, Mauritius
+MEX, Mexico
+MDA, Moldova
+MNG, Mongolia
+MNE, Montenegro
+MSR, Montserrat
+MAR, Morocco
+MOZ, Mozambique
+MYA, Myanmar
+
+NAM, Namibia
+NEP, Nepal
+NED, Netherlands
+NCL, New Caledonia
+NZL, New Zealand
+NCA, Nicaragua
+NIG, Niger
+NGA, Nigeria
+NIR, Northern Ireland
+NOR, Norway
+
+OMA, Oman
+
+PAK, Pakistan
+PLE, Palestine
+PAN, Panama
+PNG, Papua New Guinea
+PAR, Paraguay
+PER, Peru
+PHI, Philippines
+POL, Poland
+POR, Portugal
+PUR, Puerto Rico
+PRK, North Korea
+
+QAT, Qatar
+
+ROU, Romania
+RUS, Russia
+RWA, Rwanda
+RSA, South Africa
+
+SKN, Saint Kitts and Nevis
+SAM, Samoa
+SMR, San Marino
+STP, São Tomé and Príncipe
+SCO, Scotland
+SEN, Senegal
+SRB, Serbia
+SEY, Seychelles
+SLE, Sierra Leone
+SIN, Singapore
+SVK, Slovakia
+SVN, Slovenia
+SOL, Solomon Islands
+SOM, Somalia
+SSD, South Sudan
+SRI, Sri Lanka
+SDN, Sudan
+SUR, Suriname
+SWZ, Swaziland
+SWE, Sweden
+SUI, Switzerland
+SYR, Syria
+SLV, El Salvador
+
+TAH, Tahiti
+TJK, Tajikistan
+TAN, Tanzania
+THA, Thailand
+TLS, Timor-Leste
+TOG, Togo
+TGA, Tonga
+TRI, Trinidad and Tobago
+TUN, Tunisia
+TUR, Turkey
+TKM, Turkmenistan
+TCA, Turks and Caicos Islands
+TPE, Taiwan              # Chinese Tapei
+
+UGA, Uganda
+UKR, Ukraine
+UAE, United Arab Emirates
+USA, United States
+URU, Uruguay
+UZB, Uzbekistan
+
+VAN, Vanuatu
+VEN, Venezuela
+VIE, Vietnam
+VIR, US Virgin Islands    # United States Virgin Islands; Virgin Islands (U.S.)
+VIN, Saint Vincent and the Grenadines
+VGB, British Virgin Islands
+
+WAL, Wales
+
+YEM, Yemen
+
+ZAM, Zambia
+ZIM, Zimbabwe
+
+
+###################
+## Non-FIFA member codes
+ 
+BOE, Bonaire        # CONCACAF
+GYF, French Guiana  # CONCACAF
+GPE, Guadeloupe     # CONCACAF
+MTQ, Martinique     # CONCACAF
+SXM, Sint Maarten   # CONCACAF
+
+GIB, Gibraltar      # UEFA
+KOS, Kosovo         # UEFA
+
+REU, Réunion        # CAF
+ZAN, Zanzibar       # CAF
+
+TUV, Tuvalu         # OFC
+
+
+####################
+## Irregular codes
+
+NMI, Northern Mariana Islands  # AFC
+
+SMT, Saint-Martin    # CONCACAF
+
+FSM, Micronesia      # OFC
+KIR, Kiribati        # OFC
+NIU, Niue            # OFC
+PLW, Palau           # OFC
+
+
+#################
+# not members
+#
+# in europe:
+# - Vatican City
+# - Monaco
+# - Great Britain - only all its member e.g. England/Wales/Scotland/Northern Irland
+#
+# in oceania:
+# - Kiribati
+# - Marshall Islands
+# - Micronesia
+# - Nauru
+# - Palau
+# - Tuvalu
+

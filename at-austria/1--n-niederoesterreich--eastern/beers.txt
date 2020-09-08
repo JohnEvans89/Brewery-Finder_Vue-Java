@@ -1,0 +1,69 @@
+###########################
+# Niederösterreich (N)
+
+_____________________________________________
+- Privatbrauerei Fritz Egger | Unterradlberg
+
+Egger Märzen,       5.2 %, 11.8°
+Egger Zwickl 1868,  5.1 %, 11.6°
+Egger Permium,      5.2 %, 11.8°   # check is Premium (Pils)??
+Egger Leicht|Egger Sprizz,       3.5 %,  8.8°
+
+__________________________________________
+- Bruckners Erzbräu | Gaming 
+
+Bergquell,         4.9%, 11.5°, 24 IBU      ## Das Bergquell hat seinen Namen von der Quelle, die frisches Quellwasser vom Polzberg liefert.
+Schwarzer Graf,    5.1%, 12.5°, 20 IBU
+Schwarzer Peter,   4.9%, 12.6°, 18 IBU
+Erzweiße,          5.0%, 12.8°, 16 IBU
+
+## Special n Seasonal Editions
+
+Dirndlbier,        3.9%, 9.5°,  15 IBU    ## Kirschrotes Fruchtbier.
+Hanfbier,          4.9%, 12.0°, 23 IBU
+Bio SpringBock,    7.6%, 18.2°, 36 IBU 
+Imperial Ale,      8.3%, 18.0°, 60 IBU
+India Pale Ale,    5.0%, 12.9°, 52 IBU
+
+
+__________________________________________
+- Biermanufaktur Korneuburg | Korneuburg
+
+Korneuburger Original, 5.2%, 12.6°
+Korneuburger Privat,   5.0%, 12.5°
+Korneuburger Premium,  5.1%, 12.8°
+
+_____________________________________
+- Gablitzer Privatbrauerei | Gablitz
+
+Gablitzer Original,    4.8%, 12.0°
+
+_____________________
+- Brauerei Hainfeld
+
+Hainfelder Edel-Pils,   4.8%, 11.5°
+Hainfelder Lager Hell,  5.0%, 12.2°
+Hainfelder Spezial Hell, 6.0%, 13.5°
+
+______________________________________________
+- Marchfelder Storchenbräu | Untersiebenbrunn
+
+Marchfelder Märzen,   5.4%, 12.5°
+Marchfelder Zwickl,   5.4%
+Marchfelder Adebar|Adebar Märzen,   5.4%, 12.5°      # Vollbier Bio Märzen
+Marchfelder Störchle, 5.4%, 12.5°         ## vollbier mit dinkel
+Marchfelder Pils,     5.4%, 12.5°
+Marchfelder Weizen,   5.6%, 13.2°
+Marchfelder Braunes,  6.8%, 16.5°             # dunkels starkbier
+
+## seasonals
+
+Marchfelder Osterbock
+
+
+____________________________________________
+- Privatbrauerei Gerald Schwarz | Krumbach
+
+Schwarz Bräu Helles,       5.0%, 12.4°
+Schwarz Bräu Hopfen Helle, 5.0%
+Schwarz Bräu Bock,         7.6%, 16.9°

@@ -1,0 +1,53 @@
+######################
+# Canada (ca)
+
+# top 10 cities
+
+Toronto,   ON,   5_583_064
+Montréal|Montreal,  QC,   3_824_221
+Vancouver, BC,   2_313_328
+Ottawa,    ON,   1_236_324
+Calgary,   AB,   1_214_839
+Edmonton,  AB,   1_159_869
+Québec,    QC,     765_706
+Winnipeg,  MB,     730_018
+Hamilton,  ON,     721_053
+Kitchener, ON,     477_160
+London,    ON,     474_786
+
+
+# more cities
+
+
+St Catharines-Niagara,  ON, 372_000
+Halifax,                NS, 333_000
+Victoria,               BC, 304_000
+Windsor,                ON, 279_000
+Oshawa,                 ON, 269_000
+Saskatoon,              SK, 219_000
+Regina,                 SK, 194_000
+St John's,              NL, 174_000
+Sudbury,                ON, 160_000
+Chicoutimi,             QC, 160_000
+Sherbrooke,             QC, 147_000
+Kingston,               ON, 143_000
+Trois-Rivières,         QC, 140_000
+Kelowna,                BC, 137_000
+Abbotsford,             BC, 136_000
+Saint John,             NB, 126_000
+Thunder Bay,            ON, 126_000
+Barrie,                 ON, 119_000
+Sydney,                 NS, 118_000
+
+# add more captials 
+
+Frederiction,           NB
+Yellowknife,            NT
+Iqaluit,                NU
+Charlottetown,          PE
+Whitehorse,             YT
+
+
+###
+## todo/fix: add parser check for region (e.g. lets you use Ontario instead of region:on) why? why not?
+##  

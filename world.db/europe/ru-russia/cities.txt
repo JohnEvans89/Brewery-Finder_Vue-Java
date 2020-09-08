@@ -1,0 +1,32 @@
+###################
+# Russia (ru)
+
+Moskva|Москва[ru] [Moscow],  11_689_048, m:15_512_000
+Sankt-Peterburg|Санкт-Петербур[ru] [St. Petersburg],  4_879_566, m:4_879_000
+
+
+Nizhny Novgorod|Нижний Новгород[ru]|Novgorod [Nizhny Novgorod|Nizhny|Nizhniy Novgorod],  1_250_615, m:1_248_000
+## from 1932 to 1990 it was known as Gorky
+
+Novosibirsk,  m:1.6m
+Jekaterinburg [Yekaterinburg], 1_350_136, m:1.6m
+Volgograd,   m:1.4m
+
+Čel'abinsk [Chelyabinsk], 1_130_273, m:1.4m
+
+Samara|Самара[ru],       1_164_896, m:1.3m
+Kazan|Казань[ru],        1_143_546, m:1.2m
+
+Rostov-na-Donu [Rostov-on-Don], m:1.3m
+Omsk,   m:1.2m
+Saratov, m:1.1m
+Ufa,     m:1.1m
+Perm,    m:1.1m
+Krasnojarsk [Krasnoyarsk], m:1.1m
+
+
+#####
+## todo: add a special symbol for transliteration?
+##  e.g.  Moskva -> Москва  ???  or Moskva:Москва  or  Москва:Moskva ???
+##  or    Москва [ru:Moskva] ???
+

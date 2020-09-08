@@ -1,0 +1,15 @@
+#########################################################
+# Breweries in Minnesota (MN) | Midwest - West North Central
+
+
+
+[surlybrewing]
+  Surly Brewing Company
+  Brooklyn Center | MN //
+
+[summitbrewing]
+  Summit Brewing Co.|Summit Brewing Company
+  St. Paul | MN //
+
+
+

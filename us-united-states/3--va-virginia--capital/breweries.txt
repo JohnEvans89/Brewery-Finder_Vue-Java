@@ -1,0 +1,28 @@
+##################################################
+# Breweries in Virginia (VA) | Capital Region
+
+
+[starrhill]
+  Starr Hill Brewing Co.|Starr Hill Brewing Company
+  Crozet | VA // 
+
+[bluemountain]
+  Blue Mountain Brewery
+  Afton | VA // 
+
+[bullandbones]
+  Bull and Bones Brewhaus & Grill
+  Blacksburg | VA //
+
+[rivercompany]
+  The River Company Restaurant and Brewery
+  Fairlawn | VA //
+
+[roanokerailhouse]
+  Roanoke Railhouse Brewery
+  Raonoke | VA //
+
+[apocalypse]
+  Apocalypse Ale Works
+  Forest | VA //
+

@@ -1,0 +1,12 @@
+########################################
+# Breweries in Georgia (GA) | South 
+
+
+[terrapin]
+  Terrapin Beer Co.|Terrapin Beer Company
+  Athens | GA // 
+
+[sweetwater]
+  SweetWater Brewing Co.|SweetWater Brewing Company
+  Atlanta | GA // 
+

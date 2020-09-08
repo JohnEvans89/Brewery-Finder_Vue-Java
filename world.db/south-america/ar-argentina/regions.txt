@@ -1,0 +1,52 @@
+##########################
+# Argentinia
+#
+# see
+#  - http://es.wikipedia.org/wiki/Provincias_de_Argentina
+#  - en.wikipedia.org/wiki/Provinces_of_Argentina
+
+
+#################
+# regions: (use for tags)
+# Argentine Northwest =>Jujuy, Salta, Tucumán, Catamarca, La Rioja
+# Gran Chaco => Formosa, Chaco, Santiago del Estero
+# Mesopotamia => Misiones, Entre Ríos, Corrientes
+# Cuyo => San Juan, Mendoza, San Luis
+# The Pampas  => Córdoba, Santa Fe, La Pampa, Buenos Aires
+# Patagonia => Rio Negro, Neuquén, Chubut, Santa Cruz, Tierra del Fuego
+#
+# Even though there are provinces that belong to more than one region,
+# they are shown here within the most representative region.
+# In the Tucumán province, the smallest of Argentina, coexist three regions:
+# the Pampas to the south, Gran Chaco to the northeast, and Argentine Northwest.
+
+
+####
+# note: use (official) single letter iso codes
+
+
+c, Ciudad de Buenos Aires,  200 km²
+b, Provincia de Buenos Aires, La Plata, 307_571 km²
+k, Catamarca,  San Fernando del Valle de Catamarca,  102_602 km²
+h, Chaco,  Resistencia,  99_633 km²
+u, Chubut, Rawson,  224_686 km²
+x, Córdoba, Córdoba, 165_321 km²
+w, Corrientes, Corrientes, 88_199 km²
+e, Entre Ríos, Paraná, 78_781 km²
+p, Formosa, Formosa, 72_066 km²
+y, Jujuy, San Salvador de Jujuy, 53_219 km²
+l, La Pampa, Santa Rosa, 143_440 km²
+f, La Rioja, La Rioja, 89_680 km²
+m, Mendoza, Mendoza, 148_827 km²
+n, Misiones, Posadas, 29_801 km²
+q, Neuquén, Neuquén, 94_078 km²
+r, Río Negro, Viedma, 203_013 km²
+a, Salta, Salta, 155_488 km²
+j, San Juan, San Juan, 89_651 km²
+d, San Luis, San Luis, 76_748 km²
+z, Santa Cruz, Río Gallegos, 243_943 km²
+s, Santa Fe,  Santa Fe, 133_007 km²
+g, Santiago del Estero, Santiago del Estero, 136_351 km²
+v, Tierra del Fuego (Antártida e Islas del Atlántico Sur), Ushuaia, 21_5712 km²
+t, Tucumán, San Miguel de Tucumán, 22_524 km²
+

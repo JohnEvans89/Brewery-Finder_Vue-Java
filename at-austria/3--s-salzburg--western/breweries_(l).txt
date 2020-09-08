@@ -1,0 +1,14 @@
+####################################################
+# Breweries in Salzburg (S) / Western Austria
+
+
+ === Stadt Salzburg ===
+
+[stiegl]
+  Stieglbrauerei|Stieglbrauerei zu Salzburg, 1492
+  5017 Salzburg // Kendlerstraße 1
+  www.stiegl.at
+  brands: Stiegl
+  775_000 hl
+
+

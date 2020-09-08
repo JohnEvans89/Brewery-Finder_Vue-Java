@@ -1,0 +1,16 @@
+#############################################################
+# Breweries in Wisconsin (WI) | Midwest - East North Central
+
+
+[miller]
+  Miller Brewing Co.|Miller Brewing Company, 1855
+  city:milwaukee
+  Milwaukee | WI // 
+
+[leinenkugel]
+  Jacob Leinenkugel Brewing Co.|Jacob Leinenkugel Brewing Company
+  Chippewa Falls | WI //
+
+[lakefront]
+  Lakefront Brewery
+  Milwaukee | WI // 

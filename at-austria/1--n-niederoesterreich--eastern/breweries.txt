@@ -1,0 +1,245 @@
+#############################################################################
+# Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
+
+
+=== Waldviertel ===
+==== Gmünd › Weitra ==== 
+
+[weitra]
+  Weitra Bräu Bierwerkstatt|Brauerei Weitra, 1321
+  3970 Weitra // Sparkasseplatz 160
+  www.bierwerkstatt.at
+  brands: Weitra, Hadmar
+  6_500 hl
+  de.wikipedia: Bierwerkstatt_Weitra
+  zwettler   # Part of Zwettler
+
+==== Gmünd › Kirchberg am Walde ====
+
+[kirchberger]
+  Kirchberger Bier, 2015
+  3932 Kirchberg am Walde // Nr. 12
+  www.kirchberger-bier.at
+  ## microbrewery / hausbrauerei
+
+==== Waidhofen an der Thaya › Vitis ====
+
+[xandlbraeu]
+  Xandl Bräu, 2012
+  3902 Vitis // Heidenreichsteiner Straße 2
+  www.xandlbraeu.at
+  ## owner/brewer: Alexander Pichler
+  ## selbstgebauten 4.5 hl Sudwerk
+  ## microbrewery / hausbrauerei
+
+==== Horn › Japons ====
+
+[dangl]
+  Brauerei Dangl, 1996
+  3763 Japons // Zettenreith 7
+  www.danglbier.at
+  ## microbrewery / hausbrauerei
+  ##  member of www.hausbrauereien.at -- add to groups!!!
+
+
+=== Wachau ===         ## Waldviertel
+
+==== Krems (Stadt) ====
+
+[brauschneider]
+  BrauSchneider
+  3500 Krems a. d. Donau // Frauenbergplatz 6
+  www.brauschneider.com
+  // note: will move to Langelois › Schiltern (?) to new brewery in 2017 - check back
+
+==== Krems (Land) › Weißenkirchen in der Wachau ====
+
+[woesendorf]
+  Brauhaus Wösendorf, 2016
+  3610 Wösendorf // Kellergasse 101
+  www.brauhaus-woesendorf.at
+
+
+=== Mostviertel ===
+==== Melk › Dunkelsteinerwald ====
+
+[geroldinger]
+  Geroldinger Brauhaus, 2013
+  3392 Gerolding // Graf Geroldstraße 43
+
+
+==== Scheibbs › Wieselburg =====
+
+[erlauftaler]
+  Hölzl Bräu|Erlauftaler Bräu, 2006
+  3250 Wieselburg // Teichweg 6
+  ## microbrewery / hausbrauerei
+
+
+==== Scheibbs › Gaming ====
+
+[bruckners]
+  Bruckners Brauwelt|Bruckners Erzbräu|Erzbräu, 2012
+  3292 Gaming // Grubberg 4a
+  www.erzbräu.at   ##  -or- www.bruckners-brauwelt.at
+
+
+==== Sankt Pölten (Land) › Kasten bei Böheimkirchen ====
+
+[kastnerbier]
+  Kastner Bier, 2008
+  3072 Kasten // Steinabruck 35
+  www.kastnerbier.at
+
+==== Sankt Pölten (Land) › Inzersdorf-Getzersdorf ====
+
+[walpersdorf]
+  Schlossbrauerei Walpersdorf, 2014
+  3131 Walpersdorf // Schlossstraße 2
+  www.schlossbier.at
+
+==== Lilienfeld › Hainfeld ====
+
+[hainfeld]
+  Brauerei Hainfeld, 1757
+  3170 Hainfeld // Wienerstraße 10
+  www.brauerei-hainfeld.at
+
+==== Lilienfeld › Sankt Veit an der Gölsen ====
+
+[petribraeu]
+  Petri-Bräu|Hausbrauerei Sigl, 2003
+  3161 St. Veit an der Gölsen // Brillergraben 8
+  www.petri-braeu.at
+  ## microbrewery / hausbrauerei
+
+
+
+==== Tulln › Langenrohr ====
+
+[langenrohrer]
+  Langenrohrer Erlebnisbrauerei|Rohrer Bräu, 2009
+  3442 Langenrohr // Josef-Reither-Straße 18
+  www.lebe-geniesse.com/bier
+  ## microbrewery / hausbrauerei
+
+
+## use leval 4 inside viertel ??? - why? why not?
+=== Marchfeld ===    ## weinviertel
+==== Gänserndorf › Untersiebenbrunn ====
+
+[storchenbraeu]
+  Marchfelder Storchenbräu|Bauer's Marchfelder Storchenbräu|Storchenbräu, 2004
+  2284 Untersiebenbrunn // Erste Strasse 7
+  www.bauersbier.at    ## -or- www.storchenbraeu.at
+  ## shop open: tue+fri 13.00-19.00, sat 9.00-14.00
+  ## owners: Manfred Bauer
+
+
+=== Industrieviertel ===    ### use Wien Süd etc. -- why? why not???
+
+==== Wien Umgebung › Gablitz ====
+
+[gablitzer]
+  Gablitzer Privatbrauerei, 2009
+  3003 Gablitz // Hauptstraße 14
+  www.gablitzer.at
+  ## owners: Markus Führer 
+
+
+==== Mödling › Mödling ====
+
+[beerstarter]
+   Beerstarter|Hopfenartisten, 2016
+   2340 Maria Enzersdorf // Grenzgasse 111/7/EG/2      ## -or- 2340 Mödling
+   www.beerstarter.at
+   ## brauerei in Nebengebäude des Missionshauses St. Gabriel in Maria Enzersdorf/Mödling
+
+==== Baden › Alland ==== 
+
+[allander]
+  Allander Stierkogl Bräu, 2008
+  2534 Alland // Wagenhofstraße 538       
+  ## microbrewery / nanobrewery / hausbrauerei
+  ## owners/brewers: Ulrike + Christian Kurz
+
+==== Baden › Pottendorf ====
+
+[fritsche]
+  Siegersdorfer Bierwerkstatt Fritsche|Bierwerkstatt Thomas Fritsche, 2011
+  2486 Siegersdorf // Pottendorfer Straße 106
+  www.siegersdorfer.at
+  ## microbrewery / hausbrauerei
+
+==== Baden › Pottenstein ====
+
+[poidlbraeu]
+  Poidl Bräu, 1993
+  2563 Pottenstein // Wehrgasse 6
+  www.dreher.at
+  ## owner: Leopold Schlögl
+  ## sells (mostly) dreher brewing equipment
+
+
+
+==== Wiener Neustadt (Land) › Krumbach ====
+
+[schwarzbraeu]
+  Privatbrauerei Gerald Schwarz|Schwarzbräu, 2010
+  2851 Krumbach // Bundesstraße 19
+  www.schwarzbraeu.at
+
+==== Wiener Neustadt (Land) › Winzendorf-Muthmannsdorf ====
+
+[emmerberg]
+  Emmerberg-Bräu / Erste Österreichische Ökobrauerei, 1991      ## um 1987 ???
+  2722 Winzendorf // Hauptstraße 137
+
+
+==== Neunkirchen › Warth ====
+
+[holzbrauer]
+  Holzb(r)auer / Natürliche Handwerksbrauerei, 2003   ## use - vor 2003 ???
+  2831 Warth // Wiesengasse 9
+
+==== Neunkirchen › Scheiblingkirchen-Thernberg ====
+
+[wolfsbrau]
+  Wolfsbräu, 2012
+  2832 Thernberg // Blumengasse 7      
+  www.wolfsbrau.at
+  ##  Das Bucklige Weltbier Privatbrauerei Familie Wagner
+
+
+==== Neunkirchen › Payerbach ====
+
+[raxbraeu]
+  Rax Bräu|Rax Bräu Gerhofer, 2006
+  2650 Payerbach // Hauptstraße 40
+  ## microbrewery / hausbrauerei  -- check ??
+
+==== Neunkirchen › Enzenreith ====
+
+[zecherbraeu]
+  Zecher Bräu, 1991
+  2640 Enzenreith // Siedlaustraße 129
+  ## owner/brewer: Luis Lechner
+  ## microbrewery / hausbrauerei
+
+==== Neunkirchen › Warth ====
+
+[hassbacher]
+  Haßbacher Braueck|Privatbrauerei Martin Gruber, 2012
+  2831 Haßbach // Berggasse 6
+  www.braueck.at
+  ##  260l großen Sudkessel - im Keller unseres Hauses
+  ## microbrewery / hausbrauerei
+
+==== Neunkirchen › Schottwien ====
+
+[brettner]
+  Brettner Brauerei ("Altes Doktorhaus")|Brauerei Erich Brettner, 1993
+  www.brettner.at
+  2641 Schottwien // Hauptstraße 49
+  ## microbrewery / hausbrauerei
+

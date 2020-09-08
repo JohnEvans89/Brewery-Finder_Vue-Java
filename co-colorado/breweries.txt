@@ -1,0 +1,300 @@
+#########################################################
+# Breweries in Colorado (CO) // Rocky Mountains
+
+
+[]
+  3 Freaks Brewing Co
+  7140 E County Line Rd // Highlands Ranch, CO 80126-3926
+  www.3freaksbrewery.com
+
+[]
+  38 State Brewing
+  8071 S Broadway Ste A //  Littleton, CO 80122-2730
+  www.38statebrew.com
+
+[]
+  4 Noses Brewing Company
+  8855 W 116th Cir //  Broomfield, CO 80021-2522
+  www.4noses.com
+
+
+
+
+[]
+  Beer By Design Brewery
+  2100 E 112th Ave //  Northglenn, CO 80233-2345
+  www.beerbydesign.com
+
+[]
+  Berthoud Brewing Company
+  450 S 8th St Unit B //  Berthoud, CO 80513
+  www.berthoudbrewing.com
+
+[]
+  Big Beaver Brewing Co
+  2707 W Eisenhower Blvd Ste 9 //  Loveland, CO 80537-3141
+  www.bigbeaverbrew.com
+
+[]
+  Big Choice Brewing Co
+  7270 W 118th Pl Unit A //  Broomfield, CO 80020-6906
+  www.bigchoicebrewing.com
+
+
+
+[]
+  Bootstrap Brewing Co
+  6778 N 79th St Unit A //  Niwot, CO 80503-7175
+  www.bootstrapbrewing.com
+
+
+
+[]
+  Brewery Rickoli
+  4335 Wadsworth Blvd //  Wheat Ridge, CO 80033-4621
+  www.breweryrickoli.com
+
+[]
+  Broken Compass Brewing
+  68 Continental Ct # B12 //  Breckenridge, CO 80424-9100
+  www.brokencompassbrewing.com
+
+[]
+  Broken Plow Brewery
+  4731 W 10th St Unit G //  Greeley, CO 80634-2046
+  www.brokenplowbrewery.com
+
+[]
+  Butcherknife Brewing Company
+  2875 Elk River Rd //  Steamboat Springs, CO 80487-5076
+  www.butcherknifebrewing.com
+
+[]
+  Caution: Brewing Company
+  1057 S Wadsworth Blvd Ste 60 //  Lakewood, CO 80226-4362
+  www.cautionbrewingco.com
+
+
+[]
+  City Star Brewing
+  321 Mountain Ave //  Berthoud, CO 80513-9149
+  www.citystarbrewing.com
+
+[]
+  Copper Club Brewing Co
+  233 E Aspen Ave //  Fruita, CO 81521-2205
+  www.copperclubbrew.com
+
+[]
+  Crabtree Brewing Co
+  2961 W 29th St // Greeley, CO 80631-8538
+  www.crabtreebrewing.com
+
+[]
+  Crow Hop Brewing Co. Ltd.
+  217 E 3rd St //  Loveland, CO 80537-5632
+  www.crowhopbrewing.com
+
+[]
+  Crystal Springs Brewing Co
+  657 S Taylor Ave //  Louisville, CO 80027-3063
+  www.crystalspringsbrewing.com
+
+
+[]
+  Dodgeton Creek Brewing Co.
+  36730 Democracy Dr //  Trinidad, CO 81082-9788
+  www.dodgetoncreek.com
+
+
+[]
+  Echo Brewing Company
+  5969 Iris Pkwy //  Frederick, CO 80530
+  www.echobrewing.com
+
+
+[]
+  Elevation Beer Company
+  115 Pahlone Parkway //  Poncha Springs, CO 81242-0310
+  www.elevationbeerco.com
+
+
+[]
+  Estes Park Brewery
+  470 Prospect Village Dr //  Estes Park, CO 80517
+  www.epbrewery.net
+
+
+[]
+  Front Range Brewing Co.
+  400 W South Boulder Rd Ste 1650 //  Lafayette, CO 80026-2743
+  www.frontrangebrewingcompany.com
+
+
+[]
+  Gravity Brewing
+  1150 Pine St Unit B //  Louisville, CO 80027-1463
+  www.thegravitybrewing.com
+
+[]
+  Grimm Brothers Brewhouse, LLC
+  547 Denver Ave //  Loveland, CO 80537-5127
+  www.grimmbrosbrewhouse.com
+
+[]
+  Grist Brewing Company
+  9150 Commerce Center Cir Ste 300 //  Highlands Ranch, CO 80129-1563
+  www.gristbrewingcompany.com
+
+
+[]
+  High Hops Brewery
+  6461 State Highway 392 //  Windsor, CO 80550-3010
+  www.highhopsbrewery.com
+
+
+[]
+  Industrial Revolution Brewing Company
+  285 Cheesman St //  Erie, CO 80516-8464
+
+[]
+  Joyride Brewing Co
+  2501 Sheridan Blvd //  Edgewater, CO 80214-1330
+  www.joyridebrewing.com
+
+[]
+  Kokopelli Beer Co
+  8931 Harlan St //  Westminster, CO 80031-2931
+  www.kokopellibeerco.com
+
+[]
+  Liquid Mechanics Brewing Company
+  297 N US Highway 287 //  Lafayette, CO 80026-8932
+  www.liquidmechanicsbrewing.com
+
+[]
+  Living the Dream Brewing Co.
+  12305 Dumont Way Unit A //  Littleton, CO 80125-9788
+  www.livingthedreambrewing.com
+
+
+[]
+  Loveland Ale Works
+  118 W 4th St //  Loveland, CO 80537-5523
+  www.lovelandaleworks.com
+
+
+
+[]
+  Odd13 Brewing Inc
+  301 E Simpson St //  Lafayette, CO 80026-2325
+  www.odd13brewing.com
+
+
+[]
+  Ourayle House Brewery
+  PO Box 630 215 7th Ave //  Ouray, CO 81427-0630
+
+[]
+  Palisade Brewing Company
+  PO Box 1444 //  Palisade, CO 81526-1444
+  www.palisadebrewingcompany.com
+
+
+[]
+  Powder Keg Brewing Co
+  101 2nd Ave //  Niwot, CO 80544
+  www.powderkegbrewingcompany.com
+
+
+[]
+  Purgatory Brewery LLC
+  PO Box 102 //  Las Animas, CO 81054-0102
+
+
+[]
+  Revolution Brewing Co - Colorado
+  PO Box 907 //  Paonia, CO 81428-0907
+  www.revolution-brewing.com
+
+
+[]
+  Roaring Fork Beer Company
+  1941 Dolores Way //  Carbondale, CO 81623-2235
+  www.facebook.com/RoaringForkBeerCompany
+
+[]
+  Saint Patrick's Brewing Company
+  4750 S Santa Fe Cir Ste 2 //  Englewood, CO 80110-6493
+  www.stpatricksbrewco.com
+
+
+
+[]
+  Shoes & Brews
+  63 S Pratt Pkwy Unit B //  Longmont, CO 80501-1702
+  www.shoesbrews.com
+
+
+[]
+  Storm Peak Brewing Company
+  1744 Lincoln Ave Unit 3 //  Steamboat Springs, CO 80487-5045
+  www.stormpeakbrewing.com
+
+
+[]
+  The Brew On Broadway (The BoB)
+  3445 S Broadway //  Englewood, CO 80113-2528
+  www.thebrewonbroadway.com
+
+[]
+  Three Barrel Brewing Co
+  586 Columbia Ave // del Norte, CO 81132-2200
+  www.threebarrelbrew.com
+
+[]
+  Tommyknocker Brewery & Pub
+  1401 Miner St //  Idaho Springs, CO 80452
+  www.tommyknocker.com
+
+
+
+[]
+  Two Rascals Brewing Co
+  147 N 1st St //  Montrose, CO 81401-3601
+  www.tworascalsbrewing.com
+
+[]
+  Two22 Brew
+  4550 S Resevoir Rd //  Centennial, CO 80015
+  www.two22brew.com
+
+
+
+[]
+  Verboten Brewing
+  1550 Taurus Ct //  Loveland, CO 80537-3280
+  www.verbotenbrewing.com
+
+[]
+  Very Nice Brewing Co
+  20 Lakeview Drive Unit 112 //  Nederland, CO 80466
+  www.verynicebrewing.com
+
+
+
+[]
+  Westminster Brewing Co
+  7655 W 108th Ave Unit AB //  Westminster, CO 80031
+  www.westminsterbrewingco.com
+
+
+[]
+  Wiley Roots Brewing Co
+  625 3rd St Unit D //  Greeley, CO 80631-9132
+  www.wileyrootsbrewing.com
+
+[]
+  Wonderland Brewing Co.
+  5450 W 120th Ave //  Broomfield, CO 80020-5913
+  www.wonderlandbrewing.com

@@ -1,0 +1,27 @@
+########################
+# Spain / España (es)
+
+
+# -- top 10 cities
+
+Madrid,     region:md,   3_265_038,  m:5_427_000
+Barcelona,  region:ct,   1_615_448,  m:4_223_000
+Valencia,   region:vc,    798_033,  m:810_000
+Sevilla [Seville],  region:an,    703_021,  m:750_000
+Zaragoza,   region:ar,    674_725
+Málaga,     region:an,    568_030
+Murcia,     region:mc,    442_203
+Palma (de Mallorca),  region:ib,  405_318
+Las Palmas (de Gran Canaria),  region:cn,   383_343
+Bilbao,      region:pv,   352_700, m:750_000
+
+
+# -- more cities here
+
+Granada,    region:an
+Pamplona,   region:na
+Vigo,       region:ga
+Valladolid, region:cl
+
+acoruna,      A Coruña,      region:ga
+sansebastian, San Sebastián, region:pv

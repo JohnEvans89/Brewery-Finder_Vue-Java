@@ -1,0 +1,29 @@
+##################
+# Salzburg (S)
+
+
+____________________________________
+- Trumer Privatbrauerei, Obertrum
+
+Trumer Pils,   4.9%, 11.5°, lager|pils
+Trumer Imperial Pils, 6.8%, 16.2°,  bockbier
+Trumer Märzen, 4.8%, 11.8°, lager|maerzen
+
+Sigls
+Trumer Herbstbier
+
+_______________________________________
+- Brauerei Gusswerk, Hof bei Salzburg
+
+Austrian Amber Ale|AAA, 5.6%, 12.8°
+Jakobsgold,         4.9%, 11.8°   # Vollbier Zwickl
+Edelguss,           4.9%, 11.9°   # Vollbier Helles
+Urban Keller's Steinbier,          5.6%, 12.7°, steinbier
+Nicobar IPA
+Cerevinum
+
+___________________________________________
+- Augustiner Bräu Kloster Mülln, Salzburg
+
+Augustiner Märzen,  4.6%,  12°
+Augustiner Bock,    6.5%,  16.5°

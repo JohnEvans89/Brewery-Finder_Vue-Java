@@ -1,0 +1,165 @@
+#######################################################################
+# Brewpubs in Niederösterreich [Lower Austria] (N) / Eastern Austria
+#
+#  brewpubs -- Gasthausbrauerei | Wirtshausbrauerei | Bierheurigen
+
+##
+#  todo: use regions
+#    - Wien Umgebung
+#    - Bucklige Welt
+#    - Weinviertel, Waldviertel, etc.
+
+
+==== Gmünd › Weitra ====
+
+[brauhotelweitra]
+  Brauerei Brauhotel Weitra    
+  3970 Weitra // Rathausplatz 6
+  www.brauhotel.at
+  ## ehemaligen Hofbräuhaus aus dem 16. Jahrhundert
+
+# Montag - Samstag:	7.00-24.00 
+# Sonntag:	7.00-22.00 
+# Ruhetage im November - 7., 21. und 28. November 2016
+# Ruhetage im Dezember - 5., 12., 19. und 24. Dezember 2016
+
+
+==== Zwettl › Schönbach ====
+
+[schoenbacher]
+  Schönbacher Biergewölb|'s Biergwölb|Privatbrauerei Maria Pichler, 2007
+  3633 Schönbach // Nr. 1
+  www.schoenbacherpils.at
+  brands: Schönbacher
+
+
+
+==== Krems (Land) › Langenlois ====
+
+[fiakerbraeu]
+  Fiaker Bräu|Wirtshausbrauerei Langenlois, 2008
+  3550 Langenlois // Holzplatz 7
+  www.fiakerwirt.at
+
+
+==== Melk › Münichreith-Laimbach ====
+
+[haselbraeu]
+  Hasel Bräu|Wirtshausbrauerei Haselböck, 1999
+  3662 Münichreith am Ostrong // Nr. 3
+  www.wirtshausbrauerei.at
+## Öffnungszeiten
+## Mo 8.00h - 21.00h
+## Di & Mi Ruhetag!
+## Do/Fr/Sa 8.00h - 21.00h
+## So 8.00h - 20.00h  
+
+
+==== Waidhofen an der Ybbs (Stadt) =====
+
+[ybbstal]
+  Ybbstal Bräu|Gasthaus Hehenberger, 1997   ## 1. Waidhofner Gasthausbrauerei
+  3340 Waidhofen/Ybbs // Wienerstraße 28
+  www.ybbstal-braeu.at
+## Öffnungszeiten
+## Di-So 08:00-02:00
+## Montag  Ruhetag
+
+
+==== Scheibbs › Gaming ====
+
+[kartausenbraeu]
+  Kartausen Bräu|Privatbrauerei Gaming, 2008
+  3292 Gaming // Kartause 1
+  www.kartause-gaming.at
+ 
+
+
+==== Sankt Pölten (Land) › Karlstetten ====
+
+[dunkelsteiner]
+  Dunkelsteiner Bräu|Kürbishof Diesmayr, 2008
+  3121 Karlstetten // Schaubing 2
+  www.schaubing.at
+  ## owners: Familie Diesmayr
+  ## bierheuriger
+
+==== Sankt Pölten (Land) › Ober-Grafendorf ==== 
+
+[bahnhofsbraeu]
+  Bahnhofsbräu, 2014
+  3200 Ober-Grafendorf // Bahnhofsplatz 1
+  www.bahnhofsbräu.com
+
+
+==== Lilienfeld › Traisen ====
+
+[linkobraeu]
+  Linko Bräu|Gasthof Linko, 2005
+  3160 Traisen // Gartengasse 9     ## Traisental
+  www.linko.at
+
+  
+
+==== Tulln › Tulln an der Donau ====
+
+[adlerbraeu]
+  Adlerbräu, 2004
+  3430 Tulln // Rathausplatz 7
+  www.adlerbraeu.at
+
+==== Tulln › Sankt Anrdä-Wördern ====
+
+[marchart]
+  Brauhaus Marchart, 2014 
+  3423 Wördern // Greifensteinerstraße 92 
+  www.hagenthaler-bier.at   ## www.facebook.com/brauhaus.marchart
+  brands: Hagenthaler
+## Öffnungszeiten
+# täglich von 16.00 - 23.00 Uhr
+# Sonntag Ruhetag. 
+
+
+
+==== Mistelbach › Staatz ====
+
+[kurvnbraeu]
+  Kurv'n Bräu|Kurv'n Bräu Nestler, 2014
+  2134 Enzersdorf bei Staatz // Bahnhof 96
+  www.kurvnbraeu.at
+  ## bierheuriger 
+
+
+
+==== Mödling › Wiener-Neudorf ====
+
+[wieneubraeu]
+  WieNeuBräu, 2015
+  2351 Wiener Neudorf // Parkstrasse 35 
+  wieneubraeu.dobritzhofer.at
+## Öffnungszeiten (Stüberl)
+##   Mo.-Do. von 16:00 - 0:00 
+##   Fr.-So.- und an Feiertagen von 14:00 - 0:00
+
+
+==== Baden › Leobersdorf ====
+
+[antonius]
+  Antonius Bräu, 2015
+  2544 Leobersdorf // Hauptstraße 29
+  www.antoniusbraeu.at
+## Öffnungszeiten
+# Mi - Fr 15.00 - 23.00
+# Sa 11.00 - 24.00
+# So 11.00 - 21.00
+# Mo + Di Ruhetag
+
+
+==== Neunkirchen › Raach am Hochgebirge ====
+
+[diewald]
+  Gasthof Diewald, 1998
+  2640 Gloggnitz // Raach am Hochgebirge 38
+  www.gasthof-diewald.at
+
+

@@ -1,0 +1,12 @@
+##############################################
+# Breweries in South Carolina (SC) | South
+
+
+[westbrook]
+  Westbrook Brewing Co.
+  Mt Pleasant | SC // 
+
+[rjrockers]
+  RJ Rockers Brewing Co.|RJ Rockers Brewing Company
+  Spartanburg | SC // 
+

@@ -1,0 +1,38 @@
+####################
+# England (en)
+
+
+# -- metros
+
+Leeds-Bradford › Yorkshire and the Humber, M: 1_541_000, metro     ## region:yh
+
+
+# -- top cities
+
+London     › Greater London,      7_619_800, M: 8_586_000       ## region:gl
+Birmingham › West Midlands,       1_010_400, M: 2_294_000       ## region:wm 
+Liverpool  › North West England,    469_017, M:   819_000       ## region:nw
+Leeds  › Leeds-Bradford › Yorkshire and the Humber,  443_247    ## region:yh, metro:leedsbradford
+Sheffield  ›  Yorkshire and the Humber,              439_866    ## region:yh
+Bristol    ›  South West England,   420_556                 ## region:sw
+Manchester ›  North West England    394_269, M: 2_244_000   ## region:nw
+Leicester  ›  East Midlands,        330_574                 ## region:em
+Coventry   ›  West Midlands,        303_475                 ## region:wm
+Kingston|Kingston upon Hull › Yorkshire and the Humber,  301_416   ## region:yh
+Bradford ›  Leeds-Bradford ›  Yorkshire and the Humber,  293_717   ## region:yh, metro:leedsbradford
+
+
+# -- more cities
+
+## change key to westbromwich in sport.db
+westbrom,    West Bromwich ›  West Midlands,    136_940     ## region:wm
+
+Newcastle|Newcastle upon Tyne › North East England,  280_200, M: 892_000   ## region:ne
+Stoke|Stoke-on-Trent  › West Midlands,               249_000               ## region:wm
+Sunderland            › North East England,          177_739               ## region:ne
+Wigan                 › North West England,           81_203               ## region:nw
+Southampton           › South East England,          239_700               ## region:se
+Reading               › South East England,          155_700               ## region:se
+Norwich               › East of England,             140_200               ## region:ee
+
+

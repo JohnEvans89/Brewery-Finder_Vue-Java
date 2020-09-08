@@ -1,0 +1,23 @@
+##################
+# Japan (jp)
+
+Tōkyō [Tokyo],   8_336_599,   m:34.8m   ## Tōkyō
+Yokohama,        3_574_443               ## Kanagawa
+Ōsaka [Osaka],   2_592_413,   m:16.8m   ## Ōsaka
+Nagoya,          2_191_279,   m:8.5m    ## Aichi
+Sapporo,         1_883_027,   m:2.6m    ## Hokkaidō
+Kobe,            1_528_478              ## Hyōgo
+Kyoto,           1_459_640              ## Kyōto
+Fukuoka,         1_392_289,  m:2.5m    ## Fukuoka 
+Kawasaki,        1_306_785             ## Kanagawa 
+
+
+Hiroshima,      m:1.9m
+Sendai,         m:1.6m
+Kitakyūshū [Kitakyushu], m:1.6m
+Okayama,        m:1.4m
+Naha,           m:1.2m
+Himeji,         m:1.1m
+Kumamoto,       m:1.1m
+Hamamatsu,      m:1.1m
+

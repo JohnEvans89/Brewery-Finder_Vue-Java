@@ -1,0 +1,25 @@
+###################################################################
+# selected fixtures for superbowl (american football) setup
+#  e.g. no tags n taggings  (NB: requires skip_tags: true option)
+#       no langs n usages
+#
+#  todo: exclude countries mx,ca too how?? (use filter ???)
+#  e.g. countries|us or countries?us or similar ??
+#   or add filter to read_setups ?? how??
+
+
+# Countries
+north-america/countries
+
+# Codes
+1-codes/fifa
+1-codes/fips
+1-codes/internet
+1-codes/ioc
+1-codes/iso
+1-codes/motor
+
+# North America
+north-america/us-united-states/regions
+north-america/us-united-states/cities
+

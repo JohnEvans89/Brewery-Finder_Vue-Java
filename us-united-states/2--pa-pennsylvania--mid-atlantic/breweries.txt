@@ -1,0 +1,35 @@
+#############################################################
+# Breweries in Pennsylvania (PA) | Northeast - Mid Atlantic
+
+[victory]
+  Victory Brewing Co.|Victory Brewing Company
+  Downingtown | PA // 
+
+[troegs]
+  Tröegs Brewing Co.|Tröegs Brewing Company
+  Hershey | PA // 
+
+[yuengling]
+  Yuengling Brewery
+  Pottsville | PA // 
+
+[weyerbacher]
+  Weyerbacher Brewing Co.|Weyerbacher Brewing Company
+  Easton | PA // 
+
+[slyfox]
+  Sly Fox Brewing Co.|Sly Fox Brewing Company
+  Pottstown | PA // 
+
+[voodoo]
+  Voodoo Brewing Co.
+  Meadville | PA // 
+
+[fullpint]
+  Full Pint Brewing Co.|Full Pint Brewing Company
+  North Versailles | PA // 
+
+[yardsbrewing]
+  Yards Brewing Co.
+  Philadelphia | PA //
+

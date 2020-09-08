@@ -1,0 +1,98 @@
+###############################
+# Europe (49 countries)
+
+
+## eu 27 (+ euro 17)
+
+European Union, g20
+
+Austria,        un|eu›euro|schengen
+Belgium,        un|eu›euro|schengen
+Cyprus,         un|eu›euro|commonwealth
+Germany,        un|eu›euro|schengen|g8|g20
+Estonia,        un|eu›euro|schengen
+Spain,          un|eu›euro|schengen
+Finland,        un|eu›euro|schengen
+France,         un|eu›euro|schengen|g8|g20
+Greece,         un|eu›euro|schengen
+Ireland,        un|eu›euro
+Italy,          un|eu›euro|schengen|g8|g20
+Luxembourg,     un|eu›euro|schengen
+Malta,          un|eu›euro|schengen|microstate|commonwealth
+Netherlands,    un|eu›euro|schengen
+Portugal,       un|eu›euro|schengen
+Slovakia,       un|eu›euro|schengen
+Slovenia,       un|eu›euro|schengen
+
+Bulgaria,       un|eu
+Denmark,        un|eu|schengen
+Latvija,        un|eu|schengen
+Lithuania,      un|eu|schengen
+Poland,         un|eu|schengen
+Romania,        un|eu
+Sweden,         un|eu|schengen
+Czech Republic, un|eu|schengen
+Hungary,        un|eu|schengen
+
+
+Great Britain,   un|eu|g8|g20|commonwealth
+
+Andorra,         un|microstate
+Albania,         un
+Belarus,         un
+Switzerland,     un|schengen
+Croatia,         un
+Serbia,          un
+Russia,          un|g8|g20
+Turkey,          un|g20
+Ukraine,         un
+Macedonia,       un
+Norway,          un|schengen
+Iceland,         un|schengen
+
+
+Vatican City,     microstate    # NOTE: not a united nations (UN) member
+
+Bosnia and Herzegovina,  un
+Liechtenstein,           un|microstate
+Monaco,                  un|microstate
+Montenegro,              un
+Moldova,                 un
+San Marino,              un|microstate
+
+
+##  south caucasus
+## - add to middle east?
+##  - check azerbaijan is in europe and fifa too?
+
+Georgia,        un
+Armenia,        un
+Azerbaijan,     un
+
+
+
+##############################
+# territories / dependencies
+
+## note: Greenland listed in north-america/countries_(terr).txt 
+
+England (UK)
+Scotland (UK)
+Wales (UK)
+Northern Ireland (UK)
+
+Gibraltar (UK)
+Isle of Man (UK)
+Jersey (UK)
+Guernsey (UK)
+
+Faroe Islands (DK)
+
+Åland Islands (FI)
+
+
+############################
+# Notes:
+#  
+#  microstate - area < 1000 km2
+#

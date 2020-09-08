@@ -1,0 +1,52 @@
+
+Bud Lite, 4.2%, lager|lite
+Budweiser, 5%,  lager
+
+
+Miller Lite, 4.2%, lager|lite
+Miller Genuine Draft
+
+Busch Light, 4.2%, lager|lite
+Michelob Light, 4.2%, lager|lite
+
+
+### -- Pabst, Schlitz, Lone Star  contract brewed
+Pabst, 5%, lager
+Schlitz, 4.7%, lager
+Lone Star, 4.7%, lager
+
+
+___________________________________________
+- Brooklyn Brewery, NY
+
+Brooklyn Lager,     5.2%, lager|american_amber_lager      # IBUs: 33, Original Gravity: 13° Plato, Calories: 170
+Brooklyn Brown Ale, 5.6%, brown_ale|american_brown_ale   # IBUs: 30, Original Gravity: 15.5° Plato, Calories: 190
+Brooklyn East India Pale Ale,  6.9%,  ipa|india_pale_ale    # IBUs: 47, Original Gravity: 17° Plato, Calories: 200
+
+# -- check if we can drop full-malt pilsner from style - just use pilsner; pilsner == golden_lager?? - check
+Brooklyn Pilsner,  5.1%,  pilsner|golden_lager   # IBUs: 33, Original Gravity: 12° Plato, Calories: 155
+
+# seasonals
+
+Brooklyn Black Chocolate Stout,  10.0%, imperial_stout    # IBUs: 51, Original Gravity: 21.7° Plato, Calories: 320
+Brooklyn Dry Irish Stout, 4.7%,  dry_irish_stout
+Brooklyn Oktoberfest, 5.5%,    maerzen|oktoberfest     # style - Märzen/Oktoberfest, IBUs: 25, Original Gravity: 13.7° Plato, Calories: 175
+
+______________________________________
+- Dixie Brewing Co, New Orleans, LA
+
+Dixie|Dixie Lager, 4.6%, american_lager
+Dixie Blackened Voodoo|Dixie Blackened Voodoo Lager,  5.0%, munich_dunkel|dark_lager   # style -  Schwarzbier
+
+
+________________________________________
+- Goose Island Beer Co,  Chicago, IL
+
+Goose Island IPA|Goose Island India Pale Ale, 5.9%, ipa|india_pale_ale      # International Bitterness Units: 55   -- style - Style: English Style India Pale Ale
+
+
+_______________________________________
+- Boston Beer Co. (Samuel Adams), MA
+
+Samuel Adams Boston Lager, 4.9%, vienna_lager   # color 11 srm, ibus: 30, cal 175
+

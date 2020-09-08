@@ -1,0 +1,16 @@
+#####################################################
+# Breweries in Maine (ME) | Northeast - New England
+
+
+[allagash]
+  Allagash Brewing Co.|Allagash Brewing Company
+  Portland | ME // 
+
+[mainebeer]
+  Maine Beer Co.|Maine Beer Company
+  Portland | ME // 
+
+[shipyardbrewing]
+  Shipyard Brewing Co.|Shipyard Brewing Company
+  Portland | ME // 
+

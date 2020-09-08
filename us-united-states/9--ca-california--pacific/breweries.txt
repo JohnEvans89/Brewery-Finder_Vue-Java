@@ -1,0 +1,31 @@
+#################################################
+# Breweries in California (CA) | Pacific - West
+#
+# - uncategorized - move to los angeles/souther california coast/etc.
+
+
+[bjsbrewhouse]
+  BJ's Brewhouse
+  // Huntington Beach, CA
+
+
+[thebruery]
+  The Bruery
+  // Placentia, CA
+
+
+[kneedeep]
+  Knee Deep Brewing Co.|Knee Deep Brewing Company
+  // Lincoln, CA
+
+[hangartwentyfour]
+  Hangar 24 Craft Brewery
+  // Redlands, CA
+
+[bootleggers]
+  Bootlegger's Brewery
+  // Fullerton, CA
+
+[moylans]
+  Moylan's Brewery
+  // Novato, CA

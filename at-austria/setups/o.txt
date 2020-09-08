@@ -1,0 +1,12 @@
+
+at-austria!/3--o-oberoesterreich--western/breweries
+at-austria!/3--o-oberoesterreich--western/breweries_(m)
+at-austria!/3--o-oberoesterreich--western/breweries_(l)
+
+at-austria!/3--o-oberoesterreich--western/beers--innviertel
+at-austria!/3--o-oberoesterreich--western/beers--muehlviertel
+at-austria!/3--o-oberoesterreich--western/beers--salzkammergut
+at-austria!/3--o-oberoesterreich--western/beers
+at-austria!/3--o-oberoesterreich--western/beers_(m)
+at-austria!/3--o-oberoesterreich--western/beers_(l)
+

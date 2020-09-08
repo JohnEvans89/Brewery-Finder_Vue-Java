@@ -1,0 +1,49 @@
+###########################
+# United States (us)
+
+# -- top 10 cities
+
+
+New York,     NY,   8_175_133
+Los Angeles,  CA,   3_792_621
+Chicago,      IL,   2_695_598
+Houston,      TX,   2_099_451
+Philadelphia, PA,   1_526_006
+Phoenix,      AZ,   1_445_632
+San Antonio,  TX,   1_327_407
+San Diego,    CA,   1_307_402
+Dallas,       TX,   1_197_816
+San Jose,     CA,     945_942
+
+
+# -- more cities
+
+Buffalo,       NY,   261_310
+Boston,        MA,   617_594
+Columbus,      OH,   787_033
+Detroit,       MI,   713_777
+Nashville,     TN,   601_222
+Anaheim,       CA,   336_265
+St. Louis,     MO,   319_294
+Pittsburgh,    PA,   305_704
+Washington,    DC,   601_723
+Newark,        NJ,   277_140
+Raleigh,       NC,   403_892
+Miami,         FL,   399_457
+Tampa,         FL,   335_709
+Denver,        CO,   600_158
+St. Paul,      MN,   285_068
+Baltimore,     MD,   620_961
+Cincinnati,    OH,   296_943
+Cleveland,     OH,   396_815
+Indianapolis,  IN,   820_445
+Jacksonville,  FL,   821_784
+Oakland,       CA,   390_724
+San Francisco, CA,   805_235
+Kansas City,   MO,   459_787
+Green Bay,     WI,   104_057
+Minneapolis,   MN,   382_578
+Atlanta,       GA,   420_003
+New Orleans,   LA,   343_829
+Charlotte,     NC,   731_424
+Seattle,       WA,   608_660

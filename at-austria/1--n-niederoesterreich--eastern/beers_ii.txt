@@ -1,0 +1,20 @@
+####################################
+# Beers Brewpubs 'n' Microbreweries
+
+____________________________
+- Fiaker Bräu | Langenlois
+
+Fiaker Bräu Bock Hell, 7.0%, 15.0°
+Fiaker Bräu Märzen,    4.9%, 11.9°
+Fiaker Bräu Pils,      4.9%, 11.9°
+
+_______________________________________________________
+- Brettner Brauerei (Altes Doktorhaus) | Schottwien
+
+Brettner Fuhrmannsgold, 5.5%, 13.5°   # Vollbier Helles
+
+__________________________________________
+- Kartausen Bräu (Privatbrauerei Gaming) 
+
+Kartausen Bräu Hell, 5.0%, 11.8°
+

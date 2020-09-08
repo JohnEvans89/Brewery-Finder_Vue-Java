@@ -1,0 +1,17 @@
+#################
+# Morocco (ma)
+
+Casablanca,  m:4.2m
+Rabat,       m:2m
+Fès [Fes],   m:1.2m
+
+# -- venues world cup club 2013
+
+Marrakech [Marrakesh],   909_000, m:1m     # province Marrakesh
+Agadir,                  615_229  # province  Agadir-Ida Ou Tanane  (MA-AGD)
+
+
+# -- more cities
+
+Meknes
+Tangier

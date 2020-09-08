@@ -1,0 +1,71 @@
+################################
+# Venezuela
+# see
+# - es.wikipedia.org/wiki/Organización_territorial_de_Venezuela
+# - en.wikipedia.org/wiki/States_of_Venezuela
+
+
+# -------------------------------------------------------------------------------
+# Table: regions_ve
+# Note : In Venezuela, the political-territorial division of each region is
+#        called "Federal Entity" or "State". Each of these states is at the same
+#        time divided into several areas called "Municipalities". The list of
+#        cities in this table corresponds to the capitals of each of these
+#        municipalities.
+#        Population data were not added because the information shown on
+#        Wikipedia is outdated. Currently being revised 2011 Census data on the
+#        website of the National Statistics Institute
+#        see www.ine.gov.ve/CENSO2011/index.htm
+# -------------------------------------------------------------------------------
+
+
+###################
+# Regions (used for tags)
+#
+#    Andean (Andina)  (check: use  Los Andes  ??)
+#    Capital
+#    Central
+#    Central-Western (Centro-Occidental)
+#    Guayana
+#    Insular
+#    Llanos
+#    North-Eastern (Nor-Oriental)
+#    Zulian (Zuliana)
+#
+#    South-Western   (todo: ?? any states ?? check)
+
+
+
+am, Amazonas,   Puerto Ayacucho,  180_145 km², guayana
+bo, Bolívar, Ciudad Bolívar,      238_000 km², guayana
+da, Delta Amacuro, Tucupita,       40_200 km², guayana
+
+an, Anzoátegui, Barcelona,          43_300 km², nor_oriental|north_eastern
+mo, Monagas, Maturín,              28_930 km², nor_oriental|north_eastern
+su, Sucre, Cumaná,                 11_800 km², nor_oriental|north_eastern
+
+ap, Apure, San Fernando de Apure,     76_500 km², llanos
+gu, Guárico, San Juan De Los Morros,  64_986 km², llanos
+
+ca, Carabobo, Valencia,             4_650 km², central
+co, Cojedes, San Carlos,           14_800 km², central
+ar, Aragua, Maracay,                7_014 km², central
+
+mi, Miranda, Los Teques,            7_950 km², capital
+va, Vargas, La Güaira,              1_496 km², capital
+dc, Distrito Capital, Caracas,        433 km², capital
+
+fa, Falcón, Coro,         24_800 km², centro_occidental|central_western
+la, Lara, Barquisimeto,   19_800 km², centro_occidental|central_western
+po, Portuguesa, Guanare,  15_200 km², centro_occidental|central_western
+ya, Yaracuy, San Felipe,   7_100 km², centro_occidental|central_western
+
+ba, Barinas, Barinas,              35_200 km², andina|andean
+me, Mérida, Mérida,                11_300 km², andina|andean
+ta, Táchira, San Cristóbal,        11_100 km², andina|andean
+tr, Trujillo, Trujillo,             7_400 km², andina|andean
+
+ne, Nueva Esparta, La Asunción, 1_150 km²,  insular
+
+zu, Zulia, Maracaibo,  63_100 km²,  zuliana|zulian
+

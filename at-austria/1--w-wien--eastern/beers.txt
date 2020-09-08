@@ -1,0 +1,97 @@
+##############################
+# Wien (W)
+
+
+=== 5. Margareten ===
+
+____________________________________
+- Hackl Bräu (Zum Schwarzen Adler)
+
+# regular beers
+
+Hackl Bräu Helles
+Hackl Bräu Dunkles
+Hackl Bräu Märzen
+Hackl Bräu Schnitt
+Hackl Bräu Weisse
+
+
+=== 7., Neubau ===
+
+# Note: can NOT use autokey starts with number e.g. 7stern -> allow? in future - why? why not?
+________________________________
+- 7 Stern Bräu|Siebensternbräu
+
+## regular beers
+
+siebensternwienerhelles, 7 Stern Wiener Helles, 4.7%, 11.8°  # €3.20 (0.3l) €3.80 (0.5l)
+siebensternmaerzen,      7 Stern Märzen,        5.1%, 13.5°  # €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Weizen Classic,   12.7°, 5.2%,   weissbier       # €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Prager Dunkles,   12.1°, 4.5%                    # €3.20 (0.3l) €3.80 (0.5l)
+7 Stern Hanf,             11.8°, 4.7%                    # €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Chilli,           11.8°, 4.7%,  chilli           # €3.40 (0.3l) €4.00 (0.5l)
+
+## special / limited beers
+
+7 Stern Smoked Porter, 13.8°, 5.3%, 2016      #   €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Bamberger Rauchbier,  13.2°, 5.1%
+7 Stern India Pale Ale,       13°, 5%
+
+## seasonal beers
+
+7 Stern Osterbock,  16.5°, 6.3%
+7 Stern Herbstbock,    16.5°, 6.3%, 2016      # 	€3.60 (0.3l) €4.20 (0.5l)
+7 Stern Winterrauchbock,  16.5°, 6.3%
+
+
+=== 9., Alsergrund ===
+__________________________
+- Lichtenthaler Bräu
+
+Lichtenthaler Helles, ~12°
+
+Lichtenthaler West Coast Pale Ale|Lichtenthaler West Coast P.A.
+Lichtenthaler Dark U.S. Lager,  12.2°
+Lichtenthaler Porter,           13.2°
+Lichtenthaler Dinkel Leicht
+
+
+La Viennette     ## sour (lambic-style??) beer
+
+____________________________________
+- Beaver Brewing Co.
+
+Beaver Blue Ribbon (BBR)|BBR: Beaver Blue Ribbon, 4.9%, organic_lager|zwickl    # €2.80 (0.3l), €3.50 (0.4l)
+
+Wry P.A.|Wry Pale Ale, 5.7%, rye_pale_ale
+Late Summer IPA, 6.4%, american_ipa
+State of Nature|State of Nature American Wheat, 5.3%, american_wheat
+Sunday Morning|Sunday Morning Golden Ale, 5.5%,  golden_ale
+Witty Bastard|Witty Bastard Witbier, 4.1%, witbier
+
+Charlie|Charlie Brown Ale, 5.4%                            # €3.20 (0.3l), €4.20 (0.4l)
+Brave Lion|Brave Lion Golden Strong Ale, 8.4%  # belgian-style golden strong ale   # €3.50 (0.3l), €4.50 (0.4l)
+ESP|ESP - English Special Bitter (ESB), 5.2%               # €3.20 (0.3l), €4.20 (0.4l)
+Modern Lager,   5%, american_lager
+Cobretti,     8.5%, double_ipa
+
+
+______________________
+- The Highlander
+
+Highlander Stout
+Highlander Märzen Zwickl
+Highlander Lager Zwickl
+
+
+
+=== 14., Penzing ===
+
+______________
+- Medl Bräu
+
+Medl Bräu Helles
+Medl Bräu Märzen,   4.9%, 12.2°
+Medl Bräu Dunkles
+Medl Bräu Gemischtes
+Medl Bräu Weizen     # nur im Sommer -- summer only

@@ -1,0 +1,19 @@
+
+####
+## todo: check what abbrevations to use for regions?
+##
+## see  en.wikipedia.org/wiki/Regions_of_England
+##
+## fix-fix-fix: make regions into tags - and use smaller admin units - yes, yes
+##
+
+
+ne, North East England
+nw, North West England
+yh, Yorkshire and the Humber
+em, East Midlands
+wm, West Midlands
+ee, East of England
+gl, Greater London
+se, South East England
+sw, South West England

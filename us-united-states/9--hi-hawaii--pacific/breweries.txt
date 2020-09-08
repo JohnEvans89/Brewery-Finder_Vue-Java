@@ -1,0 +1,10 @@
+##############################################
+# Breweries in Hawaii (HI)
+
+
+[kona]
+  Kona Brewing Co.|Kona Brewing Company
+  // Honolulu, HI
+
+
+

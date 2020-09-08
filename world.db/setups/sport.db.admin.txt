@@ -1,0 +1,132 @@
+###############################################
+# selected fixtures for sport.db.admin setup
+#  e.g. no tags n taggings  (NB: requires skip_tags: true option)
+#       no langs n usages
+
+
+# Defs
+continents
+
+# Countries
+africa/countries
+antarctica/countries
+asia/countries
+caribbean/countries
+central-america/countries
+europe/countries
+middle-east/countries
+north-america/countries
+pacific/countries
+south-america/countries
+
+# Countries 2
+africa/countries_(terr)
+antarctica/countries_(terr)
+asia/countries_(terr)
+caribbean/countries_(terr)
+europe/countries_(terr)
+north-america/countries_(terr)
+pacific/countries_(terr)
+south-america/countries_(terr)
+
+
+# Continents
+africa/2-more/continents
+antarctica/2-more/continents
+asia/2-more/continents
+caribbean/2-more/continents
+central-america/2-more/continents
+europe/2-more/continents
+middle-east/2-more/continents
+north-america/2-more/continents
+pacific/2-more/continents
+south-america/2-more/continents
+
+# Codes
+1-codes/fifa
+1-codes/fips
+1-codes/internet
+1-codes/ioc
+1-codes/iso
+1-codes/motor
+
+
+# South America
+south-america/ar-argentina/regions
+south-america/ar-argentina/regions.iso
+south-america/ar-argentina/cities
+south-america/br-brazil/regions
+south-america/br-brazil/cities
+south-america/ve-venezuela/regions
+south-america/ve-venezuela/cities
+
+
+# North America
+north-america/ca-canada/regions
+north-america/ca-canada/cities
+north-america/us-united-states/regions
+north-america/us-united-states/cities
+north-america/mx-mexico/regions
+north-america/mx-mexico/regions.abbr
+north-america/mx-mexico/cities
+
+# Asia
+asia/jp-japan/cities
+
+
+# Europe
+europe/be-belgium/states
+europe/bg-bulgaria/states
+europe/ch-switzerland/states
+europe/cz-czech-republic/states
+europe/dk-denmark/states
+europe/es-spain/states
+europe/fr-france/states
+europe/ie-ireland/states
+europe/it-italy/states
+europe/nl-netherlands/states
+europe/ro-romania/states
+europe/sk-slovakia/states
+
+## europe/bg-bulgaria/states_codes_iso
+## europe/it-italy/states_codes_iso
+
+## europe/eng-england/regions
+## europe/eng-england/cities
+
+europe/be-belgium/cities
+europe/bg-bulgaria/cities
+europe/by-belarus/cities
+europe/ch-switzerland/cities
+europe/cy-cyprus/cities
+europe/cz-czech-republic/cities
+europe/dk-denmark/cities
+europe/ee-estonia/cities
+europe/es-spain/cities
+europe/fi-finland/cities
+europe/fr-france/cities
+europe/gr-greece/cities
+europe/hr-croatia/cities
+europe/hu-hungary/cities
+europe/ie-ireland/cities
+europe/it-italy/cities
+europe/lt-lithuania/cities
+europe/lv-latvia/cities
+europe/nl-netherlands/cities
+europe/no-norway/cities
+europe/pl-poland/cities
+europe/pt-portugal/cities
+europe/ro-romania/cities
+europe/rs-serbia/cities
+europe/ru-russia/cities
+europe/sco-scotland/cities
+europe/se-sweden/cities
+europe/sk-slovakia/cities
+europe/tr-turkey/cities
+europe/ua-ukraine/cities
+europe/wal-wales/cities
+
+# Pacific
+pacific/au-australia/regions
+pacific/au-australia/cities
+

@@ -1,0 +1,55 @@
+#########################
+# Brazil / Brasil (br)
+
+# see en.wikipedia.org/wiki/States_of_Brazil
+
+
+
+###################
+# North
+
+ac, Acre,         Rio Branco,    152_581 km², north
+am, Amapá,        Macapá,        142_815 km², north
+ap, Amazonas,     Manaus,      1_570_746 km², north
+pa, Pará,         Belém,       1_247_690 km², north
+ro, Rondônia,     Porto Velho,   237_576 km², north
+rr, Roraima,      Boa Vista,     224_299 km², north
+to, Tocantins,    Palmas,        277_621 km², north
+
+##############################
+# Northeast
+
+al, Alagoas,      Maceió,       27_768 km², northeast
+ba, Bahia,        Salvador,    564_693 km², northeast
+ce, Ceará,        Fortaleza,   148_826 km², northeast
+ma, Maranhão,     São Luís,    331_984 km², northeast
+pb, Paraíba,      João Pessoa,  56_440 km², northeast
+pe, Pernambuco,   Recife,       98_312 km², northeast
+pi, Piauí,        Teresina,    251_529 km², northeast
+rn, Rio Grande do Norte, Natal,   52_797 km², northeast
+se, Sergipe,      Aracaju,      21_910 km², northeast
+
+################################
+# Center-West
+
+df, Distrito Federal (Brasil), Brasília,   5_822 km², center_west
+
+go, Goiás, Goiânia,   340_087 km², center_west
+mt, Mato Grosso,  Cuiabá,  903_358 km², center_west
+ms, Mato Grosso do Sul, Campo Grande, 357_125 km², center_west
+
+###############################
+# Southeast
+
+es, Espírito Santo, Vitória,          46_078 km², southeast
+mg, Minas Gerais,   Belo Horizonte,  586_528 km², southeast
+rj, Rio de Janeiro, Rio de Janeiro,   43_696 km², southeast
+sp, São Paulo,      São Paulo,       248_209 km², southeast
+
+#################################
+# South
+
+pr, Paraná,            Curitiba,      199_315 km², south
+rs, Rio Grande do Sul, Porto Alegre,  281_749 km², south
+sc, Santa Catarina,    Florianópolis,  95_346 km², south
+

@@ -1,0 +1,9 @@
+###############################
+# Antarctica
+
+# NOTE: no permanent residents
+#   residents include researchers etc.
+
+aq, Antarctica,    ATA, 14_000_000 km²,  0
+
+

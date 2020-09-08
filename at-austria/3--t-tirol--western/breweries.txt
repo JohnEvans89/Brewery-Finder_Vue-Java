@@ -1,0 +1,31 @@
+#########################################################
+# Breweries in Tirol [Tyrol] (T) / Western Austria
+
+
+#########################
+# Microbreweries
+
+[brangerbraeu]
+  Branger Bräu, 1993
+  6175 Unterperfuß/Innsbruck // Unterperfuß 32
+  www.brangeralm.at
+
+[baumgartnerinnsbruck]   ## NB: baumgartner key already in use for at/oo
+  Brauerei Harald Franz Baumgartner
+  6020 Innsbruck // Feldstraße 11a
+
+[starkenberg]
+  Brauerei Schloß Starkenberg, 1810
+  6464 Tarrenz // Griesegg 1
+  www.starkenberg.at
+  ### todo: check production greater 20_000 ???
+
+[kristall]
+  Kristall Brauerei
+  6236 Alpbach // Inneralpbach 431
+
+[vilser]
+  Vilser Privatbrauerei
+  6682 Vils // Stadtgasse 2
+  www.vilserprivatbrauerei.at
+

@@ -1,0 +1,115 @@
+###############################
+# Europe (49 countries)
+
+
+## eu 27 (+ euro 17)
+
+European Union
+
+Austria,        fifa›uefa
+Belgium,        fifa›uefa
+Cyprus,         fifa›uefa
+Germany,        fifa›uefa
+Estonia,        fifa›uefa
+Spain,          fifa›uefa
+Finland,        fifa›uefa
+France,         fifa›uefa
+Greece,         fifa›uefa
+Ireland,        fifa›uefa
+Italy,          fifa›uefa
+Luxembourg,     fifa›uefa
+Malta,          fifa›uefa
+Netherlands,    fifa›uefa
+Portugal,       fifa›uefa
+Slovakia,       fifa›uefa
+Slovenia,       fifa›uefa
+
+Bulgaria,       fifa›uefa
+Denmark,        fifa›uefa
+Latvija,        fifa›uefa
+Lithuania,      fifa›uefa
+Poland,         fifa›uefa
+Romania,        fifa›uefa
+Sweden,         fifa›uefa
+Czech Republic, fifa›uefa
+Hungary,        fifa›uefa
+
+
+Great Britain      # note: not fifa member (England, Scotland, etc are members)
+
+
+Andorra,         fifa›uefa
+Albania,         fifa›uefa
+Belarus,         fifa›uefa
+Switzerland,     fifa›uefa
+Croatia,         fifa›uefa
+Serbia,          fifa›uefa
+Russia,          fifa›uefa
+Turkey,          fifa›uefa
+Ukraine,         fifa›uefa
+Macedonia,       fifa›uefa
+Norway,          fifa›uefa
+Iceland,         fifa›uefa
+
+
+Vatican City              # note: not fifa member
+
+Bosnia and Herzegovina,  fifa›uefa
+Liechtenstein,           fifa›uefa
+Monaco                    # note: not fifa member
+Montenegro,              fifa›uefa
+Moldova,                 fifa›uefa
+San Marino,              fifa›uefa
+
+
+##  south caucasus
+## - add to middle east?
+##  - check azerbaijan is in europe and fifa too?
+
+Georgia,        fifa›uefa
+Armenia,        fifa›uefa
+Azerbaijan,     fifa›uefa
+
+
+
+##############################
+# territories / dependencies
+
+## note: Greenland listed in north-america/countries.2.txt 
+
+England (UK),     fifa›uefa 
+Scotland (UK),    fifa›uefa
+Wales (UK),       fifa›uefa
+Northern Ireland (UK), fifa›uefa
+
+Gibraltar (UK),     uefa  # note: not a fifa member
+Isle of Man (UK)
+Jersey (UK)
+Guernsey (UK)
+
+
+Faroe Islands (DK),  fifa›uefa
+
+
+Åland Islands (FI)
+
+
+##############
+# Notes
+#
+#  == Non-European / Asian / Middle East country members
+#
+# Note: The UEFA member country Kazachstan from Asia is listed in Asia.
+# Note: The UEFA member country Israel from Asia is listed in Middle East.
+#
+# == Non-sovereign country members
+#
+#  Note: Great Britain is NOT a FIFA/UEFA member, instead, its member countries are:
+#
+# - Scotland
+# - England
+# - Wales
+# - Northern Irland
+#
+#  Note: Faroe Islands (dependency of Denmark) is a FIFA/UEFA member.
+#

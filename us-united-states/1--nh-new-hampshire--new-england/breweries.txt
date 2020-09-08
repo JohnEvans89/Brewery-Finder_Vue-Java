@@ -1,0 +1,7 @@
+###############################################################
+# Breweries in New Hampshire (NH) | Northeast - New England
+
+
+[smuttynose]
+  Smuttynose Brewing Co.
+  NH, Portsmouth | NH // 

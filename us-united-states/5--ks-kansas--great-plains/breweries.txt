@@ -1,0 +1,7 @@
+#########################################################
+# Breweries in Kansas (KS) | Midwest - West North Central
+
+
+[tallgrass]
+  Tallgrass Brewing Co.|Tallgrass Brewing Company
+  Manhattan | KS // 

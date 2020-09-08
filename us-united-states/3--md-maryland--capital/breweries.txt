@@ -1,0 +1,23 @@
+#################################################
+# Breweries in Maryland (MD) | Capital Regions
+
+
+[flyingdog]
+  Flying Dog Brewery
+  Frederick | MD //
+
+[heavyseas]
+  Heavy Seas Beer
+  Baltimore | MD // 
+
+[duclaw]
+  DuClaw Brewing Co.|DuClaw Brewing Company
+  Bel Air | MD // 
+
+[stillwaterales]
+  Stillwater Artisanal Ales
+  Baltimore | MD // 
+
+[evolutioncraft]
+  Evolution Craft Brewing Co.|Evolution Craft Brewing Company
+  Salisbury | MD // 

@@ -1,0 +1,33 @@
+######################
+# Switzerland (ch)
+
+zuerich,    Zürich, region:zh, m:742_000, 
+Winterthur,  region:zh
+
+Bern,  region:be
+Thun,  region:be
+biel,       Biel-Bienne,  region:be
+
+stgallen,   St. Gallen,  region:sg
+Wil,  region:sg
+
+Bellinzona,  region:ti
+Chiasso,  region:ti
+Lugano,  region:ti
+Locarno,  region:ti
+
+Aarau,  region:ag
+Wohlen,  region:ag
+
+Basel,  region:bs
+geneve, Genève,  region:ge
+Lausanne,  region:vd
+Luzern,  region:lu
+Sion,  region:vs
+
+
+## todo: check auto-key generator
+# for Zürich -> zuerich
+#     Genève -> geneve
+#     St. Gallen -> stgallen
+#  remove key here

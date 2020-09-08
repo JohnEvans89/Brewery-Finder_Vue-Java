@@ -1,0 +1,45 @@
+##############################
+# Breweries in Texas (TX) 
+
+[realale]
+  Real Ale
+
+[liveoak]
+  Live Oak
+
+[petes]
+  Pete's
+
+[spoetzl]
+  Spoetzl Brewery, 1909
+  603 E Brewery St // Shiner, TX 77984
+  www.shiner.com
+  brands: Shiner
+
+
+[saintarnold]
+  Saint Arnold|Saint Arnold Brewing Co.|Saint Arnold Brewing Company
+  // Houston, TX
+
+[karbach]
+  Karbach Brewing Co
+  // Houston, TX
+
+
+[jesterking]
+  Jester King Craft Brewery
+  // Austin, TX
+
+[hopsngrain]
+  Hops & Grain
+  // Austin, TX
+
+[fifteentwelve]   # use different key ?? - note: cannot handle key starting w/ number??
+  1512 Brewing Company
+  // Austin, TX
+
+
+
+[deepellum]
+  Deep Ellum Brewing Co.|Deep Ellum Brewing Company
+  // Dallas, TX

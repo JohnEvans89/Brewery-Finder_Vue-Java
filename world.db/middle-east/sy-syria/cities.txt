@@ -1,0 +1,6 @@
+#################################
+# Syria (sy)
+
+Dimashq [Damascus], m:3.5m
+Ḥalab [Aleppo], m:3m
+
